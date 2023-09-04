@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="JCU_1" size="1.000000 1.050228" />
+    <ImageTarget name="ymjh" size="1.000000 0.437247" />
+  </Tracking>
+</QCARConfig>
